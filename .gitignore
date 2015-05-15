@@ -1,0 +1,12 @@
+.DS_Store
+.eunit
+.rebar
+apps/*/ebin/
+/ebin/*
+*~
+.#*
+*.bak
+*.beam
+/deps/*
+deps
+erl_crash.dump
